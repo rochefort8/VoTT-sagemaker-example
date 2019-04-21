@@ -1,4 +1,4 @@
-# VoTT-savemaker-example
+# VoTT-sagemaker-example
 
 ## See also
 https://dev.classmethod.jp/cloud/aws/sagemaker-umaibo-object-detection/
