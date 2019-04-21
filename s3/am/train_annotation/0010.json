@@ -1,0 +1,1 @@
+{"file": "0010.jpg", "image_size": [{"width": 225, "height": 225, "depth": 3}], "annotations": [{"class_id": 0, "top": 40.28572871767241, "left": 68.53006297144397, "width": 67.26284684806035, "height": 104.4629327182112}], "categories": [{"class_id": 0, "name": "needle"}]}

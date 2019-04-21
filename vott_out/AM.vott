@@ -1,0 +1,2440 @@
+{
+    "name": "AM",
+    "securityToken": "AM Token",
+    "sourceConnection": {
+        "name": "AM_in",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMWJlZWNhYjk5NWE4ZmY0MWQ2MjA4OTZhYjZkMDUyYjNkNWE2Zjc3NDI1OWM4YmZiYzllMTVkZjM5YTgwNDBlOTFjNzFmZGNiOTRiMDAzOWU1OGEyZTM3NDU5NzkxMTdlM2ZhNmMxNTlkY2RiMWY4NmI2ZDdhNjY4ZWVkMDkyMzQ0NTVkNTRkMDU2NmI0Y2QyZjAwZmEzZTNlNTEzMTdlZiIsIml2IjoiYTJjMDdlOGI1OGE3ZDhkNDZlOTdlNGYxNjgzY2YwMGFkMDIxM2E0ZDU3NDg3ZWVmIn0="
+        },
+        "id": "4DPF_AFHD"
+    },
+    "targetConnection": {
+        "name": "AM_out",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjUwYWNjOTY2N2VmZWUyNjljYzkzNmIwNzIxNWQxZWY3MDRjMTUzZTM3OWMyZDUzZjVjNDFkNmExMzk3OTdjZGFlMzA2MjkzOGNiYzRlMDkyOGUyZmU4YzY5YjEwNTMwYjUxYjU2ZWZhY2IwMzZhZWMzOTk0ZGRmZWQ5OTQxN2M1NDVkNjNkOGE0MTY4M2RlODIxMjUwZTc3N2U3YTYwOCIsIml2IjoiMzEwZDg1NDZjYWE4ZGM0MTllNWQzOGQ2Y2E4Zjg4MWZjZjg4NzU0ZjU3ZWUyZjNhIn0="
+        },
+        "id": "69WFBd3xd"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "needle",
+            "color": "#5db300"
+        }
+    ],
+    "version": "2.0.0",
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmY0NzAwYzMxMGY3MzA0MGNkMDViODU1YWNjZTY5NzAzM2Q5YmQ1N2UzZjFhNTk5YWQ2YjIxZWY3NmMyM2U1YiIsIml2IjoiNGQyZTY5NDhhZDcwMzAyMWQ0ZDk0NjM4NDA0MTI0NWRhMjllYWFmMDllMWRkZDJjIn0="
+        }
+    },
+    "id": "Td9PjORrg",
+    "lastVisitedAssetId": "45eddeb67263c1400b9109cd8820755f",
+    "assets": {
+        "7aa8cc981bd1947006c8d0e1ac7f9b81": {
+            "format": "jpg",
+            "id": "7aa8cc981bd1947006c8d0e1ac7f9b81",
+            "name": "0001.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0001.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98a16e58bb7f16f5503d9d6f9a123ac2": {
+            "format": "jpg",
+            "id": "98a16e58bb7f16f5503d9d6f9a123ac2",
+            "name": "0002.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0002.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a48998fa2b1a37e783121304d99e2b50": {
+            "format": "jpg",
+            "id": "a48998fa2b1a37e783121304d99e2b50",
+            "name": "0003.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0003.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72ac01d31d3374e2dba200bd1755f0ee": {
+            "format": "jpg",
+            "id": "72ac01d31d3374e2dba200bd1755f0ee",
+            "name": "0004.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0004.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e37b61e24bcf5f42d07ff7ba03876443": {
+            "format": "jpg",
+            "id": "e37b61e24bcf5f42d07ff7ba03876443",
+            "name": "0005.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0005.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "baa609dff0c43a48c6d325cb2c0e9b60": {
+            "format": "jpg",
+            "id": "baa609dff0c43a48c6d325cb2c0e9b60",
+            "name": "0006.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0006.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "00e9890ee25061ff2eca6a62818953a5": {
+            "format": "jpg",
+            "id": "00e9890ee25061ff2eca6a62818953a5",
+            "name": "0007.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0007.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d31c99c2bb86b321aaa9d62a0f349dbe": {
+            "format": "jpg",
+            "id": "d31c99c2bb86b321aaa9d62a0f349dbe",
+            "name": "0008.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0008.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc05063bd4b72e787b25d732b22e3aa5": {
+            "format": "jpg",
+            "id": "dc05063bd4b72e787b25d732b22e3aa5",
+            "name": "0009.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0009.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "373260b32e19a6f5d472c198bcbdc2f7": {
+            "format": "jpg",
+            "id": "373260b32e19a6f5d472c198bcbdc2f7",
+            "name": "0010.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0010.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92397a69ce74acc3a69596fcab81a72d": {
+            "format": "jpg",
+            "id": "92397a69ce74acc3a69596fcab81a72d",
+            "name": "0011.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0011.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc3e8616eb733570ec6c1f7c5b9f10e7": {
+            "format": "jpg",
+            "id": "bc3e8616eb733570ec6c1f7c5b9f10e7",
+            "name": "0012.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0012.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c134ae67c498250b5b2e41eeb49b642": {
+            "format": "jpg",
+            "id": "1c134ae67c498250b5b2e41eeb49b642",
+            "name": "0013.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0013.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2c05f143b802a038b65f1320b509e4f": {
+            "format": "jpg",
+            "id": "b2c05f143b802a038b65f1320b509e4f",
+            "name": "0014.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0014.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa454e9034d6ae142adf9a52814326c5": {
+            "format": "jpg",
+            "id": "fa454e9034d6ae142adf9a52814326c5",
+            "name": "0015.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0015.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f112cf4df1b579b085982fc2bdf3098": {
+            "format": "jpg",
+            "id": "5f112cf4df1b579b085982fc2bdf3098",
+            "name": "0016.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0016.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9eb509466ec441bc78bf612e91f7550": {
+            "format": "jpg",
+            "id": "c9eb509466ec441bc78bf612e91f7550",
+            "name": "0017.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0017.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "670ae40a265c92e42b9882eeaba2b5d2": {
+            "format": "jpg",
+            "id": "670ae40a265c92e42b9882eeaba2b5d2",
+            "name": "0018.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0018.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2b28c2decd5dfc8e1fea786de131cd6d": {
+            "format": "jpg",
+            "id": "2b28c2decd5dfc8e1fea786de131cd6d",
+            "name": "0019.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0019.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a6c2b0972d41018bddf371153925e775": {
+            "format": "jpg",
+            "id": "a6c2b0972d41018bddf371153925e775",
+            "name": "0020.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0020.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b13b518b393085aa960cf3082c35c4f": {
+            "format": "jpg",
+            "id": "8b13b518b393085aa960cf3082c35c4f",
+            "name": "0021.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0021.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfd128442f1f899e9e844b091d972fda": {
+            "format": "jpg",
+            "id": "bfd128442f1f899e9e844b091d972fda",
+            "name": "0022.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0022.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d4486c01078d1592474b8cb34a2e5669": {
+            "format": "jpg",
+            "id": "d4486c01078d1592474b8cb34a2e5669",
+            "name": "0023.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0023.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71e6887f632dab78680c484223671084": {
+            "format": "jpg",
+            "id": "71e6887f632dab78680c484223671084",
+            "name": "0024.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0024.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce4595c6f870866bcdeec8cf1c7147a7": {
+            "format": "jpg",
+            "id": "ce4595c6f870866bcdeec8cf1c7147a7",
+            "name": "0025.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0025.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "62fa0bcc53fc3a2e0718b4906fa8a0c5": {
+            "format": "jpg",
+            "id": "62fa0bcc53fc3a2e0718b4906fa8a0c5",
+            "name": "0026.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0026.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1629a0d8cf000d4d048f087134beec15": {
+            "format": "jpg",
+            "id": "1629a0d8cf000d4d048f087134beec15",
+            "name": "0027.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0027.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "236faac3a14687031b8a1cfdc1a4be7f": {
+            "format": "jpg",
+            "id": "236faac3a14687031b8a1cfdc1a4be7f",
+            "name": "0028.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0028.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "241bf2e9fb330a78365f8819cb696582": {
+            "format": "jpg",
+            "id": "241bf2e9fb330a78365f8819cb696582",
+            "name": "0029.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0029.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21d9ca2c3b573a7f3c7532ffff89e7c8": {
+            "format": "jpg",
+            "id": "21d9ca2c3b573a7f3c7532ffff89e7c8",
+            "name": "0030.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0030.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "acfc662f5ee03d89dfeca2db4155d4c2": {
+            "format": "jpg",
+            "id": "acfc662f5ee03d89dfeca2db4155d4c2",
+            "name": "0031.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0031.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2defcd72cbd24288c8d1a62f0548beb": {
+            "format": "jpg",
+            "id": "e2defcd72cbd24288c8d1a62f0548beb",
+            "name": "0032.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0032.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "51778b29e55a91594736de05c9ddeb08": {
+            "format": "jpg",
+            "id": "51778b29e55a91594736de05c9ddeb08",
+            "name": "0033.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0033.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b60fff557fbd8854c734270d36e466b7": {
+            "format": "jpg",
+            "id": "b60fff557fbd8854c734270d36e466b7",
+            "name": "0034.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0034.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e19cddc3bad6266456204607f8e20e7": {
+            "format": "jpg",
+            "id": "9e19cddc3bad6266456204607f8e20e7",
+            "name": "0035.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0035.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7487c0ca3e4957f6114d4d7241fc27dd": {
+            "format": "jpg",
+            "id": "7487c0ca3e4957f6114d4d7241fc27dd",
+            "name": "0036.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0036.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d236e2ff088b7164e98a76ad6e81ed77": {
+            "format": "jpg",
+            "id": "d236e2ff088b7164e98a76ad6e81ed77",
+            "name": "0037.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0037.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d2c0f907a74cc52aae1ab7ab7e1f926": {
+            "format": "jpg",
+            "id": "2d2c0f907a74cc52aae1ab7ab7e1f926",
+            "name": "0038.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0038.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d4ab6b82b6390687f3ebee56cc8122e": {
+            "format": "jpg",
+            "id": "6d4ab6b82b6390687f3ebee56cc8122e",
+            "name": "0039.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0039.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "86e8dee0584cf6a9b41822b470d6eb2e": {
+            "format": "jpg",
+            "id": "86e8dee0584cf6a9b41822b470d6eb2e",
+            "name": "0040.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0040.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b88d046dd626fbb74ec2fbceec01055a": {
+            "format": "jpg",
+            "id": "b88d046dd626fbb74ec2fbceec01055a",
+            "name": "0041.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0041.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2aacc74a505b34c1c26ce4ed0dd75feb": {
+            "format": "jpg",
+            "id": "2aacc74a505b34c1c26ce4ed0dd75feb",
+            "name": "0042.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0042.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76d6afe6b23a10a2038eaa1d627c79e3": {
+            "format": "jpg",
+            "id": "76d6afe6b23a10a2038eaa1d627c79e3",
+            "name": "0043.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0043.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f71085644265ffaf233cc19d055e186": {
+            "format": "jpg",
+            "id": "0f71085644265ffaf233cc19d055e186",
+            "name": "0044.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0044.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f746399073b937e0534adee0e2720b80": {
+            "format": "jpg",
+            "id": "f746399073b937e0534adee0e2720b80",
+            "name": "0045.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0045.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f27f759126a73dd30168791edc6ee43": {
+            "format": "jpg",
+            "id": "9f27f759126a73dd30168791edc6ee43",
+            "name": "0046.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0046.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "499dba1fdf5e8a3bd4903a2e729dc9e2": {
+            "format": "jpg",
+            "id": "499dba1fdf5e8a3bd4903a2e729dc9e2",
+            "name": "0047.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0047.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e27eaa2b35cc5ff1fb7e6321b0c3c538": {
+            "format": "jpg",
+            "id": "e27eaa2b35cc5ff1fb7e6321b0c3c538",
+            "name": "0048.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0048.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7705afaeb4e2f8b505e318825e0b78c": {
+            "format": "jpg",
+            "id": "d7705afaeb4e2f8b505e318825e0b78c",
+            "name": "0049.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0049.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60564561432f490089a82ffa9172ca5f": {
+            "format": "jpg",
+            "id": "60564561432f490089a82ffa9172ca5f",
+            "name": "0050.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0050.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab6a35e22b41bdbd5d0a8a45d29861d8": {
+            "format": "jpg",
+            "id": "ab6a35e22b41bdbd5d0a8a45d29861d8",
+            "name": "0051.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0051.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "053c1ea8c156a102ddea5a116c1aa2cb": {
+            "format": "jpg",
+            "id": "053c1ea8c156a102ddea5a116c1aa2cb",
+            "name": "0052.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0052.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac6f30d5685e318251cabbfc7cee2905": {
+            "format": "jpg",
+            "id": "ac6f30d5685e318251cabbfc7cee2905",
+            "name": "0053.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0053.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e45e72c8d9534bdd848e7f6a676f2148": {
+            "format": "jpg",
+            "id": "e45e72c8d9534bdd848e7f6a676f2148",
+            "name": "0054.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0054.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b14fffd86a4db3b9ef2291e26630c5ef": {
+            "format": "jpg",
+            "id": "b14fffd86a4db3b9ef2291e26630c5ef",
+            "name": "0055.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0055.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bfc085bd553f194c3870c78fd88be60f": {
+            "format": "jpg",
+            "id": "bfc085bd553f194c3870c78fd88be60f",
+            "name": "0056.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0056.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "530a6c57b0880492a70cb031c3564926": {
+            "format": "jpg",
+            "id": "530a6c57b0880492a70cb031c3564926",
+            "name": "0057.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0057.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61d994ac151c7761b3c694398c1a08d2": {
+            "format": "jpg",
+            "id": "61d994ac151c7761b3c694398c1a08d2",
+            "name": "0058.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0058.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "12af6000c33049691f9a7ba593fa7472": {
+            "format": "jpg",
+            "id": "12af6000c33049691f9a7ba593fa7472",
+            "name": "0059.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0059.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "70595fb7771c6c12a0584cdfee233e6b": {
+            "format": "jpg",
+            "id": "70595fb7771c6c12a0584cdfee233e6b",
+            "name": "0060.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0060.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7da1e21d5b2c2b3cc72a9e0e9a4ed128": {
+            "format": "jpg",
+            "id": "7da1e21d5b2c2b3cc72a9e0e9a4ed128",
+            "name": "0061.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0061.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffa969425d181b5d4e2233cb4a9f466d": {
+            "format": "jpg",
+            "id": "ffa969425d181b5d4e2233cb4a9f466d",
+            "name": "0062.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0062.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71234f3583c0b17cca382845a0d218d4": {
+            "format": "jpg",
+            "id": "71234f3583c0b17cca382845a0d218d4",
+            "name": "0063.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0063.jpg",
+            "size": {
+                "width": 225,
+                "height": 224
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b65dd39561c415bd569acddd6cd8856e": {
+            "format": "jpg",
+            "id": "b65dd39561c415bd569acddd6cd8856e",
+            "name": "0064.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0064.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d9786a07275c13f3a9b58c2427957a9": {
+            "format": "jpg",
+            "id": "8d9786a07275c13f3a9b58c2427957a9",
+            "name": "0065.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0065.jpg",
+            "size": {
+                "width": 225,
+                "height": 224
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58bd588655c5ffe39f8d74b0904edded": {
+            "format": "jpg",
+            "id": "58bd588655c5ffe39f8d74b0904edded",
+            "name": "0066.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0066.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "958f2d0c973cb434dc5dcea3898e20da": {
+            "format": "jpg",
+            "id": "958f2d0c973cb434dc5dcea3898e20da",
+            "name": "0067.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0067.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b83b432a06072e15dd332a9133325eab": {
+            "format": "jpg",
+            "id": "b83b432a06072e15dd332a9133325eab",
+            "name": "0068.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0068.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4fe7cb4c7e2d308787b3ba21de91780": {
+            "format": "jpg",
+            "id": "a4fe7cb4c7e2d308787b3ba21de91780",
+            "name": "0069.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0069.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83e3414405b9d87b922634764bf487e0": {
+            "format": "jpg",
+            "id": "83e3414405b9d87b922634764bf487e0",
+            "name": "0070.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0070.jpg",
+            "size": {
+                "width": 224,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccc6fe250b5919d1db15c908a9244fc4": {
+            "format": "jpg",
+            "id": "ccc6fe250b5919d1db15c908a9244fc4",
+            "name": "0071.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0071.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "895f968040fac163121e433c794c0404": {
+            "format": "jpg",
+            "id": "895f968040fac163121e433c794c0404",
+            "name": "0072.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0072.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b5613ae9153748002d9063ad039ec01f": {
+            "format": "jpg",
+            "id": "b5613ae9153748002d9063ad039ec01f",
+            "name": "0073.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0073.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5778ad5418c7156da13fa001f801048c": {
+            "format": "jpg",
+            "id": "5778ad5418c7156da13fa001f801048c",
+            "name": "0074.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0074.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46266055f867cb0e4a1ac3f3e0ae6b60": {
+            "format": "jpg",
+            "id": "46266055f867cb0e4a1ac3f3e0ae6b60",
+            "name": "0075.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0075.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65ed5e112fc618e08681b89c24d7d5f7": {
+            "format": "jpg",
+            "id": "65ed5e112fc618e08681b89c24d7d5f7",
+            "name": "0076.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0076.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca7a55cc5658a4a15014e61f84037b43": {
+            "format": "jpg",
+            "id": "ca7a55cc5658a4a15014e61f84037b43",
+            "name": "0077.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0077.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a1380aecf2994e81d5da861729adc67": {
+            "format": "jpg",
+            "id": "2a1380aecf2994e81d5da861729adc67",
+            "name": "0078.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0078.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fb3aceb128c89f69c324c390f15bd3e": {
+            "format": "jpg",
+            "id": "1fb3aceb128c89f69c324c390f15bd3e",
+            "name": "0079.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0079.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d83c85b7cd8c2f992d7cf37ec7d1c97": {
+            "format": "jpg",
+            "id": "8d83c85b7cd8c2f992d7cf37ec7d1c97",
+            "name": "0080.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0080.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6956e198dcb7bf7c7d2a07f96a706662": {
+            "format": "jpg",
+            "id": "6956e198dcb7bf7c7d2a07f96a706662",
+            "name": "0081.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0081.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d554ffca016472352a860d65e3ccc2dd": {
+            "format": "jpg",
+            "id": "d554ffca016472352a860d65e3ccc2dd",
+            "name": "0082.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0082.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ef9ccd43167b7076d4938c4255e2537": {
+            "format": "jpg",
+            "id": "7ef9ccd43167b7076d4938c4255e2537",
+            "name": "0083.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0083.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d21469c0cf69dba0f797ae2c9d6e5017": {
+            "format": "jpg",
+            "id": "d21469c0cf69dba0f797ae2c9d6e5017",
+            "name": "0084.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0084.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba5ea0f07adffab7eaf72ee101017da9": {
+            "format": "jpg",
+            "id": "ba5ea0f07adffab7eaf72ee101017da9",
+            "name": "0085.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0085.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f61c97fd33e7ff98cdad4cf81993bbc": {
+            "format": "jpg",
+            "id": "5f61c97fd33e7ff98cdad4cf81993bbc",
+            "name": "0086.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0086.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "097e7afd6e6b509a5935ca52be2e3b94": {
+            "format": "jpg",
+            "id": "097e7afd6e6b509a5935ca52be2e3b94",
+            "name": "0087.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0087.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f81ef1dc8403e10b892ed0e245fb7e0": {
+            "format": "jpg",
+            "id": "9f81ef1dc8403e10b892ed0e245fb7e0",
+            "name": "0088.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0088.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb30d33d86bae7363b4eeb953f04d03c": {
+            "format": "jpg",
+            "id": "eb30d33d86bae7363b4eeb953f04d03c",
+            "name": "0089.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0089.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6595ce7e89757f68e6ececbbf882167d": {
+            "format": "jpg",
+            "id": "6595ce7e89757f68e6ececbbf882167d",
+            "name": "0090.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0090.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "439c6a7f7bcf2bcbea83486eea1690c2": {
+            "format": "jpg",
+            "id": "439c6a7f7bcf2bcbea83486eea1690c2",
+            "name": "0091.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0091.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6179a96de6037e3e7a909d6407d830bd": {
+            "format": "jpg",
+            "id": "6179a96de6037e3e7a909d6407d830bd",
+            "name": "0092.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0092.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b12a22f3bcf1c60ac789d22b07bbffa4": {
+            "format": "jpg",
+            "id": "b12a22f3bcf1c60ac789d22b07bbffa4",
+            "name": "0093.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0093.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "891b8e42c966143dba6a3f8c59c9b7e8": {
+            "format": "jpg",
+            "id": "891b8e42c966143dba6a3f8c59c9b7e8",
+            "name": "0094.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0094.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac61ffe32756d56021272743be7115cc": {
+            "format": "jpg",
+            "id": "ac61ffe32756d56021272743be7115cc",
+            "name": "0095.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0095.jpg",
+            "size": {
+                "width": 194,
+                "height": 259
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa2194c2cbfa0697034cbe91e2ca2654": {
+            "format": "jpg",
+            "id": "fa2194c2cbfa0697034cbe91e2ca2654",
+            "name": "0096.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0096.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03be1a0a82a6e10ade6b1f4d8fe1c8c3": {
+            "format": "jpg",
+            "id": "03be1a0a82a6e10ade6b1f4d8fe1c8c3",
+            "name": "0097.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0097.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebf8a59fbe6a4c689fd821f6312e7919": {
+            "format": "jpg",
+            "id": "ebf8a59fbe6a4c689fd821f6312e7919",
+            "name": "0098.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0098.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "753c136b7db2b638baf6482e7918d881": {
+            "format": "jpg",
+            "id": "753c136b7db2b638baf6482e7918d881",
+            "name": "0099.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0099.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8a26ee09a6c650c81a9f459d78703c2a": {
+            "format": "jpg",
+            "id": "8a26ee09a6c650c81a9f459d78703c2a",
+            "name": "0100.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0100.jpg",
+            "size": {
+                "width": 259,
+                "height": 194
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ce89649b3710e79ecbbc99329fa80b3": {
+            "format": "jpg",
+            "id": "5ce89649b3710e79ecbbc99329fa80b3",
+            "name": "0101.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0101.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d92640e4885c97062c3312b957511ada": {
+            "format": "jpg",
+            "id": "d92640e4885c97062c3312b957511ada",
+            "name": "0102.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0102.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53eb0dd4fec9ca2c87b8b24196f35a58": {
+            "format": "jpg",
+            "id": "53eb0dd4fec9ca2c87b8b24196f35a58",
+            "name": "0103.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0103.jpg",
+            "size": {
+                "width": 477,
+                "height": 504
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca416e9a07e98ca21efeaacff4b1da20": {
+            "format": "jpg",
+            "id": "ca416e9a07e98ca21efeaacff4b1da20",
+            "name": "0104.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0104.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "601e920fcaeb19af81ef2a7b3cabb852": {
+            "format": "jpg",
+            "id": "601e920fcaeb19af81ef2a7b3cabb852",
+            "name": "0105.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0105.jpg",
+            "size": {
+                "width": 477,
+                "height": 504
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0957845287fa01a4abcb8e45a4b17807": {
+            "format": "jpg",
+            "id": "0957845287fa01a4abcb8e45a4b17807",
+            "name": "0106.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0106.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea53739b602712ce6ab336f047232ff7": {
+            "format": "jpg",
+            "id": "ea53739b602712ce6ab336f047232ff7",
+            "name": "0107.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0107.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0df3295f36bf2a292fb3141ed014646": {
+            "format": "jpg",
+            "id": "e0df3295f36bf2a292fb3141ed014646",
+            "name": "0108.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0108.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c501c36413ba5935e351b2d51cfa7f08": {
+            "format": "jpg",
+            "id": "c501c36413ba5935e351b2d51cfa7f08",
+            "name": "0109.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0109.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0290baf5ebdfa21f8d31e83e973154d": {
+            "format": "jpg",
+            "id": "d0290baf5ebdfa21f8d31e83e973154d",
+            "name": "0110.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0110.jpg",
+            "size": {
+                "width": 504,
+                "height": 477
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7d35673aa5d99b1b18c963df4e1612bd": {
+            "format": "jpg",
+            "id": "7d35673aa5d99b1b18c963df4e1612bd",
+            "name": "0111.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0111.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f5e50ddc5f8ece0eaa2f3c0c56f592ce": {
+            "format": "jpg",
+            "id": "f5e50ddc5f8ece0eaa2f3c0c56f592ce",
+            "name": "0112.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0112.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "615d0147756557b23160b13480ae9db3": {
+            "format": "jpg",
+            "id": "615d0147756557b23160b13480ae9db3",
+            "name": "0113.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0113.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c7b21b3d1e8c96fceb90bcb69c7a1cc": {
+            "format": "jpg",
+            "id": "5c7b21b3d1e8c96fceb90bcb69c7a1cc",
+            "name": "0114.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0114.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f039b02808f406f2779818562aa1371": {
+            "format": "jpg",
+            "id": "1f039b02808f406f2779818562aa1371",
+            "name": "0115.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0115.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "182be0c44cf8751a6c567e43640ce0cf": {
+            "format": "jpg",
+            "id": "182be0c44cf8751a6c567e43640ce0cf",
+            "name": "0116.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0116.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9075d00f8fba2d3adb8ccb0eae12fa0": {
+            "format": "jpg",
+            "id": "c9075d00f8fba2d3adb8ccb0eae12fa0",
+            "name": "0117.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0117.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a89046a635d92a455a6ef3a6a61f0cd": {
+            "format": "jpg",
+            "id": "0a89046a635d92a455a6ef3a6a61f0cd",
+            "name": "0118.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0118.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1671676d619d140234e417b999f953bf": {
+            "format": "jpg",
+            "id": "1671676d619d140234e417b999f953bf",
+            "name": "0119.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0119.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28ac4c372f202e3bc4f512bcd80d1f03": {
+            "format": "jpg",
+            "id": "28ac4c372f202e3bc4f512bcd80d1f03",
+            "name": "0120.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0120.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82f186ee01bfeb0eb2fb504b5fb31573": {
+            "format": "jpg",
+            "id": "82f186ee01bfeb0eb2fb504b5fb31573",
+            "name": "0121.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0121.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04bbc2a33c0d63b4d576eedbec686f16": {
+            "format": "jpg",
+            "id": "04bbc2a33c0d63b4d576eedbec686f16",
+            "name": "0122.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0122.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb825d2bfd325db9fac0e82efab47e5b": {
+            "format": "jpg",
+            "id": "bb825d2bfd325db9fac0e82efab47e5b",
+            "name": "0123.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0123.jpg",
+            "size": {
+                "width": 213,
+                "height": 237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55ba0cae4e556d46734e01d1c76e0f0c": {
+            "format": "jpg",
+            "id": "55ba0cae4e556d46734e01d1c76e0f0c",
+            "name": "0124.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0124.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba3743faa8a05433044cef326be26bd5": {
+            "format": "jpg",
+            "id": "ba3743faa8a05433044cef326be26bd5",
+            "name": "0125.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0125.jpg",
+            "size": {
+                "width": 213,
+                "height": 237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c3f90af3225819f56b48c906d4ccaf2": {
+            "format": "jpg",
+            "id": "5c3f90af3225819f56b48c906d4ccaf2",
+            "name": "0126.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0126.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "967485fd8b01af3d003baa747f8b430a": {
+            "format": "jpg",
+            "id": "967485fd8b01af3d003baa747f8b430a",
+            "name": "0127.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0127.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29c2564a4fc92357bc50896964ed2880": {
+            "format": "jpg",
+            "id": "29c2564a4fc92357bc50896964ed2880",
+            "name": "0128.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0128.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f1f790a03bb8b0796330846feea3cc2": {
+            "format": "jpg",
+            "id": "6f1f790a03bb8b0796330846feea3cc2",
+            "name": "0129.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0129.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1b8632ae70d480c49e1572d19d12b38": {
+            "format": "jpg",
+            "id": "e1b8632ae70d480c49e1572d19d12b38",
+            "name": "0130.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0130.jpg",
+            "size": {
+                "width": 237,
+                "height": 213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "467fdb41e0af0beaf91ff11c7e1f5e04": {
+            "format": "jpg",
+            "id": "467fdb41e0af0beaf91ff11c7e1f5e04",
+            "name": "0131.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0131.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "833ab63457e35b6e6b05b2aeb1fa25f9": {
+            "format": "jpg",
+            "id": "833ab63457e35b6e6b05b2aeb1fa25f9",
+            "name": "0132.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0132.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9a2d76c88222206ed67f441588906a9": {
+            "format": "jpg",
+            "id": "c9a2d76c88222206ed67f441588906a9",
+            "name": "0133.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0133.jpg",
+            "size": {
+                "width": 1599,
+                "height": 1266
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f7ccd4decc24782020c81437b7c2780": {
+            "format": "jpg",
+            "id": "0f7ccd4decc24782020c81437b7c2780",
+            "name": "0134.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0134.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f9b9c6e0b42fdb3fc338e2843da28a9": {
+            "format": "jpg",
+            "id": "3f9b9c6e0b42fdb3fc338e2843da28a9",
+            "name": "0135.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0135.jpg",
+            "size": {
+                "width": 1599,
+                "height": 1266
+            },
+            "state": 2,
+            "type": 1
+        },
+        "826976ed7a5d0d16e8dfc1e67b0d3b46": {
+            "format": "jpg",
+            "id": "826976ed7a5d0d16e8dfc1e67b0d3b46",
+            "name": "0136.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0136.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "92a5f53428607ab47a96c642f606a885": {
+            "format": "jpg",
+            "id": "92a5f53428607ab47a96c642f606a885",
+            "name": "0137.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0137.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27e9ddaf7032326a7cee1313f6e0bfe8": {
+            "format": "jpg",
+            "id": "27e9ddaf7032326a7cee1313f6e0bfe8",
+            "name": "0138.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0138.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "48f93587002734ac1ca47deb176552a0": {
+            "format": "jpg",
+            "id": "48f93587002734ac1ca47deb176552a0",
+            "name": "0139.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0139.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6a775789d8971e0da012390e4132517": {
+            "format": "jpg",
+            "id": "f6a775789d8971e0da012390e4132517",
+            "name": "0140.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0140.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1599
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d523fd17ec045082dd17ac2e580ddead": {
+            "format": "jpg",
+            "id": "d523fd17ec045082dd17ac2e580ddead",
+            "name": "0141.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0141.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2399d9afbc161cdb17f69988b0d1923": {
+            "format": "jpg",
+            "id": "e2399d9afbc161cdb17f69988b0d1923",
+            "name": "0142.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0142.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4117aa9c44c6af60f1f2a053fe32963b": {
+            "format": "jpg",
+            "id": "4117aa9c44c6af60f1f2a053fe32963b",
+            "name": "0143.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0143.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91cb8905f3b3cf4e9341ef234809a3b9": {
+            "format": "jpg",
+            "id": "91cb8905f3b3cf4e9341ef234809a3b9",
+            "name": "0144.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0144.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95d6196a008b674ee5d1a5c9eeaf7ba6": {
+            "format": "jpg",
+            "id": "95d6196a008b674ee5d1a5c9eeaf7ba6",
+            "name": "0145.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0145.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3df90b36b86022f68921e6c4efb8579": {
+            "format": "jpg",
+            "id": "c3df90b36b86022f68921e6c4efb8579",
+            "name": "0146.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0146.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "faa551a645506cc14aaf54b4889c1a6c": {
+            "format": "jpg",
+            "id": "faa551a645506cc14aaf54b4889c1a6c",
+            "name": "0147.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0147.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccf53af0ebe07c1226c04ad47b813a00": {
+            "format": "jpg",
+            "id": "ccf53af0ebe07c1226c04ad47b813a00",
+            "name": "0148.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0148.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c778ca4d8b71163d2763176a820cbb3": {
+            "format": "jpg",
+            "id": "1c778ca4d8b71163d2763176a820cbb3",
+            "name": "0149.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0149.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "23a646dd55f32a861aea53a85d572332": {
+            "format": "jpg",
+            "id": "23a646dd55f32a861aea53a85d572332",
+            "name": "0150.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0150.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb75a576826f35b9bfc71921800822b6": {
+            "format": "jpg",
+            "id": "bb75a576826f35b9bfc71921800822b6",
+            "name": "0151.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0151.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5be14846768d1902d6c16c55e920f612": {
+            "format": "jpg",
+            "id": "5be14846768d1902d6c16c55e920f612",
+            "name": "0152.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0152.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14d3ef2c09981d60a654df5dc21304bc": {
+            "format": "jpg",
+            "id": "14d3ef2c09981d60a654df5dc21304bc",
+            "name": "0153.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0153.jpg",
+            "size": {
+                "width": 212,
+                "height": 237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4c6edfb739dd5051d01c1cb77d4b825": {
+            "format": "jpg",
+            "id": "a4c6edfb739dd5051d01c1cb77d4b825",
+            "name": "0154.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0154.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab04593d3245f0c79861c4de3ea67072": {
+            "format": "jpg",
+            "id": "ab04593d3245f0c79861c4de3ea67072",
+            "name": "0155.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0155.jpg",
+            "size": {
+                "width": 212,
+                "height": 237
+            },
+            "state": 2,
+            "type": 1
+        },
+        "350b6e69553b7d749ed51e3aefbeb9fc": {
+            "format": "jpg",
+            "id": "350b6e69553b7d749ed51e3aefbeb9fc",
+            "name": "0156.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0156.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "faae7802d45283d0757a50c8c3ff5e14": {
+            "format": "jpg",
+            "id": "faae7802d45283d0757a50c8c3ff5e14",
+            "name": "0157.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0157.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4aa9bc42d3a82955c54ef386c581477f": {
+            "format": "jpg",
+            "id": "4aa9bc42d3a82955c54ef386c581477f",
+            "name": "0158.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0158.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc7b2a0f8fce0952d54cec15b61aaaf4": {
+            "format": "jpg",
+            "id": "dc7b2a0f8fce0952d54cec15b61aaaf4",
+            "name": "0159.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0159.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31548d9a90149bfd41331d44ef1db1df": {
+            "format": "jpg",
+            "id": "31548d9a90149bfd41331d44ef1db1df",
+            "name": "0160.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0160.jpg",
+            "size": {
+                "width": 237,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a434ccba1a2b77d2bf6caf68227b554": {
+            "format": "jpg",
+            "id": "2a434ccba1a2b77d2bf6caf68227b554",
+            "name": "0161.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0161.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5b92b701dacb6021672ee959b4c72ee1": {
+            "format": "jpg",
+            "id": "5b92b701dacb6021672ee959b4c72ee1",
+            "name": "0162.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0162.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83373a42ac1790c5bc83c3abb418c94c": {
+            "format": "jpg",
+            "id": "83373a42ac1790c5bc83c3abb418c94c",
+            "name": "0163.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0163.jpg",
+            "size": {
+                "width": 222,
+                "height": 227
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de71554fd607ea1610a31540adb5f43a": {
+            "format": "jpg",
+            "id": "de71554fd607ea1610a31540adb5f43a",
+            "name": "0164.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0164.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0153e85d06614403857f29549553b308": {
+            "format": "jpg",
+            "id": "0153e85d06614403857f29549553b308",
+            "name": "0165.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0165.jpg",
+            "size": {
+                "width": 222,
+                "height": 227
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a054ca8b0093ba0de1ff0edcbb7397e1": {
+            "format": "jpg",
+            "id": "a054ca8b0093ba0de1ff0edcbb7397e1",
+            "name": "0166.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0166.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2977f01e96a20faa1ec7583a5a5b847f": {
+            "format": "jpg",
+            "id": "2977f01e96a20faa1ec7583a5a5b847f",
+            "name": "0167.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0167.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3fdd5007eb4847352fcb719879f9fb38": {
+            "format": "jpg",
+            "id": "3fdd5007eb4847352fcb719879f9fb38",
+            "name": "0168.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0168.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e88c9f0baa9666fd3dedcc79b950a03": {
+            "format": "jpg",
+            "id": "7e88c9f0baa9666fd3dedcc79b950a03",
+            "name": "0169.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0169.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebb8d8186ff8bdd683b983c1d860383e": {
+            "format": "jpg",
+            "id": "ebb8d8186ff8bdd683b983c1d860383e",
+            "name": "0170.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0170.jpg",
+            "size": {
+                "width": 227,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63c6b6936682354aa931fdf96e85b409": {
+            "format": "jpg",
+            "id": "63c6b6936682354aa931fdf96e85b409",
+            "name": "0171.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0171.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8d7fa4dfaa1921ed1abd90cca4ee39c8": {
+            "format": "jpg",
+            "id": "8d7fa4dfaa1921ed1abd90cca4ee39c8",
+            "name": "0172.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0172.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ceb5eb0c08fb5536f9aee672ff89c2de": {
+            "format": "jpg",
+            "id": "ceb5eb0c08fb5536f9aee672ff89c2de",
+            "name": "0173.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0173.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4dab75352adb944580547f719878a5e7": {
+            "format": "jpg",
+            "id": "4dab75352adb944580547f719878a5e7",
+            "name": "0174.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0174.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32677a11caf8581d2fb1b89d96b3aecd": {
+            "format": "jpg",
+            "id": "32677a11caf8581d2fb1b89d96b3aecd",
+            "name": "0175.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0175.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e4e8bdd72b0db6d3ad32aee994de3e3d": {
+            "format": "jpg",
+            "id": "e4e8bdd72b0db6d3ad32aee994de3e3d",
+            "name": "0176.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0176.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c914477d4ee7f1c63aea0e97fefe2cf": {
+            "format": "jpg",
+            "id": "0c914477d4ee7f1c63aea0e97fefe2cf",
+            "name": "0177.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0177.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d88500d94ef4dfab076f52960554c863": {
+            "format": "jpg",
+            "id": "d88500d94ef4dfab076f52960554c863",
+            "name": "0178.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0178.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3921bacc1d9f7b4875b11d1d9a50a244": {
+            "format": "jpg",
+            "id": "3921bacc1d9f7b4875b11d1d9a50a244",
+            "name": "0179.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0179.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce904f828e45beb9f29caa26966b42eb": {
+            "format": "jpg",
+            "id": "ce904f828e45beb9f29caa26966b42eb",
+            "name": "0180.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0180.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "103bad45c45094bcdad748d3ebff3563": {
+            "format": "jpg",
+            "id": "103bad45c45094bcdad748d3ebff3563",
+            "name": "0181.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0181.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7ca1fa8ae623ebd3436e6d8f3e3522fe": {
+            "format": "jpg",
+            "id": "7ca1fa8ae623ebd3436e6d8f3e3522fe",
+            "name": "0182.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0182.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8e0d752678bd77d8d0df94f0577a74d3": {
+            "format": "jpg",
+            "id": "8e0d752678bd77d8d0df94f0577a74d3",
+            "name": "0183.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0183.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad084fdbf0b6d894f7bbb4850359b7d7": {
+            "format": "jpg",
+            "id": "ad084fdbf0b6d894f7bbb4850359b7d7",
+            "name": "0184.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0184.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ea64a09ba8d8f139f9ca813e99d2dd43": {
+            "format": "jpg",
+            "id": "ea64a09ba8d8f139f9ca813e99d2dd43",
+            "name": "0185.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0185.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c6fb39982e6a3acd65b6874b434bbe1": {
+            "format": "jpg",
+            "id": "4c6fb39982e6a3acd65b6874b434bbe1",
+            "name": "0186.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0186.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b79c75e18a71ccc5b645fa5ab740fc00": {
+            "format": "jpg",
+            "id": "b79c75e18a71ccc5b645fa5ab740fc00",
+            "name": "0187.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0187.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4d64c6beaee59cb5c0565569b86c4bd": {
+            "format": "jpg",
+            "id": "a4d64c6beaee59cb5c0565569b86c4bd",
+            "name": "0188.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0188.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e33cc592183927617a7c9d02e7d3b85e": {
+            "format": "jpg",
+            "id": "e33cc592183927617a7c9d02e7d3b85e",
+            "name": "0189.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0189.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d21f7a6e2ea33d674b3c95cd2b0fa8d": {
+            "format": "jpg",
+            "id": "5d21f7a6e2ea33d674b3c95cd2b0fa8d",
+            "name": "0190.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0190.jpg",
+            "size": {
+                "width": 225,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "465d99b0404451eb77a0ea1439365cfd": {
+            "format": "jpg",
+            "id": "465d99b0404451eb77a0ea1439365cfd",
+            "name": "0191.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0191.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6794fd5c0bbcdb3be414db1d9f18dfe6": {
+            "format": "jpg",
+            "id": "6794fd5c0bbcdb3be414db1d9f18dfe6",
+            "name": "0192.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0192.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4fddc47bb9a83ddc2bb5d8c898e4239": {
+            "format": "jpg",
+            "id": "f4fddc47bb9a83ddc2bb5d8c898e4239",
+            "name": "0193.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0193.jpg",
+            "size": {
+                "width": 192,
+                "height": 263
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a590cd5c8c00252dbd5e8828390e3fd": {
+            "format": "jpg",
+            "id": "9a590cd5c8c00252dbd5e8828390e3fd",
+            "name": "0194.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0194.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a7159533da7b17dede0ffadccbbb2a3": {
+            "format": "jpg",
+            "id": "0a7159533da7b17dede0ffadccbbb2a3",
+            "name": "0195.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0195.jpg",
+            "size": {
+                "width": 192,
+                "height": 263
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6efc20a85f4ac56b74d47fd335cfaa1c": {
+            "format": "jpg",
+            "id": "6efc20a85f4ac56b74d47fd335cfaa1c",
+            "name": "0196.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0196.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "937466d2c7495cf399360df356ced36c": {
+            "format": "jpg",
+            "id": "937466d2c7495cf399360df356ced36c",
+            "name": "0197.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0197.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ce3ef9be190e4e6f081a952ce2908718": {
+            "format": "jpg",
+            "id": "ce3ef9be190e4e6f081a952ce2908718",
+            "name": "0198.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0198.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff45082ef6275860ec0ef5d6994478be": {
+            "format": "jpg",
+            "id": "ff45082ef6275860ec0ef5d6994478be",
+            "name": "0199.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0199.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        },
+        "45eddeb67263c1400b9109cd8820755f": {
+            "format": "jpg",
+            "id": "45eddeb67263c1400b9109cd8820755f",
+            "name": "0200.jpg",
+            "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0200.jpg",
+            "size": {
+                "width": 263,
+                "height": 192
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

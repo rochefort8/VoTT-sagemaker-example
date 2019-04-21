@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8d83c85b7cd8c2f992d7cf37ec7d1c97",
+        "name": "0080.jpg",
+        "path": "file:/Users/rochefort10/projects/analog_meter/ml/out/0080.jpg",
+        "size": {
+            "width": 225,
+            "height": 225
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "sfFoqgtgS",
+            "type": "RECTANGLE",
+            "tags": [
+                "needle"
+            ],
+            "boundingBox": {
+                "height": 91.98587351831897,
+                "width": 52.8082485856681,
+                "left": 94.36971730199353,
+                "top": 60.9930630387931
+            },
+            "points": [
+                {
+                    "x": 94.36971730199353,
+                    "y": 60.9930630387931
+                },
+                {
+                    "x": 147.17796588766163,
+                    "y": 60.9930630387931
+                },
+                {
+                    "x": 147.17796588766163,
+                    "y": 152.97893655711206
+                },
+                {
+                    "x": 94.36971730199353,
+                    "y": 152.97893655711206
+                }
+            ]
+        }
+    ],
+    "version": "2.0.0"
+}
