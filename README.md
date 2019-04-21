@@ -7,5 +7,6 @@ https://qiita.com/mhiro216/items/e7b3a4bbca591edd7141
 ## Keywords
 * Object Detection
 * Annotation : VoTT
+* Augumentation
 * Amazon Sagemaker
 * MXNet
